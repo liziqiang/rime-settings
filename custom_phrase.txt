@@ -24,15 +24,18 @@ Rime	rime	3
 ⇧	shift
 GBK	gbk
 UTF-8	utfba
-macOS High Sierra	macos	2
-macOS Mojave	macos	3
-macOS	macos	4
-macOS Sierra	macos	1
+macOS Big Sur	macos	3
+macOS Catalina	macos	2
+macOS	macos	1
 Google Analytics	ga
 macOS	macos
 Linux	linux
 CSS	css
 HTML html
+Vue vue
+React react
+React Native	rn	2
+RN	rn	1
 iOS	ios
 iPad	ipad
 iPhone	iphone
@@ -66,7 +69,6 @@ X-Ray	xray
 Xbox One	xbox
 Youku	youku
 YouTube	youtube
-又双叒叕	yzyz
 iCloud	icloud
 Quantumult	quan
 Dropbox	dropbox
