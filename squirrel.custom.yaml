@@ -52,6 +52,8 @@ patch:
       ascii_mode: true
     com.microsoft.VSCode:
       ascii_mode: true
+    com.google.android.studio:
+      ascii_mode: true
 
 # 如果想要修改皮肤，直接更改 color_scheme 的值即可
   style:
