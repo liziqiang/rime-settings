@@ -29,8 +29,12 @@ import_tables:
   - luna_pinyin.chat
   - luna_pinyin.computer
   - luna_pinyin.place
+  - luna_pinyin.place2
   - luna_pinyin.shopping
   - luna_pinyin.net
   - luna_pinyin.website
   - luna_pinyin.poetry
+  - luna_pinyin.stars
+  - luna_pinyin.popular
+  - luna_pinyin.dictionary
 ...
