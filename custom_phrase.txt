@@ -14,38 +14,35 @@
 #
 # no comment
 
-中州韻輸入法引擎	rime	2
-又双叒叕	yyy
-http://rime.im/	rime	1
-Rime	rime	3
+Rime	rime
 ⌘	cmd
 ⌃	ctl
 ⌥	opt
 ⇧	shift
 GBK	gbk
-UTF-8	utfba
+UTF-8	utf
 macOS Big Sur	macos	3
 macOS Catalina	macos	2
 macOS	macos	1
 Google Analytics	ga
-macOS	macos
+Mac	mac
 Linux	linux
 CSS	css
-HTML html
-Vue vue
-React react
+HTML	html
+Vue	vue
+React	react
 React Native	rn	2
 RN	rn	1
 iOS	ios
 iPad	ipad
 iPhone	iphone
 iTunes	itunes
-JavaScript js
-TypeScript ts
-jQuery	jquery
+JavaScript	js
+TypeScript	ts
+jQuery	jq
 MySQL	mysql
 SQL	sql
-Objective-C	ojbc
+Objective-C	oc
 Ruby	ruby
 Rust	rust
 WeChat	wechat
@@ -53,6 +50,7 @@ Swift	swift
 MacBook Pro	mbp
 MacBook	macbook
 Apple	apple
+Apple ID	apple
 U盘	upj
 GitHub	github
 iMac	imac
@@ -64,16 +62,10 @@ IPv4	ipv
 IPv6	ipv
 Mac App Store	mas
 OS X	osx
-GUN/Linux linux
-X-Ray	xray
-Xbox One	xbox
 Youku	youku
 YouTube	youtube
 iCloud	icloud
-Quantumult	quan
 Dropbox	dropbox
-T恤	txu
-Mac	mac
 Wi-Fi	wifi
-Apple ID	appleid
-QQ邮箱	qqyzxl
+T恤	txu
+又双叒叕	yyy
