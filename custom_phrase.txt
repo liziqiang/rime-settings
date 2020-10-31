@@ -14,29 +14,44 @@
 #
 # no comment
 
-Rime	rime
+# 符号
 ⌘	cmd
 ⌃	ctl
 ⌥	opt
 ⇧	shift
+
+# 计算机
 GBK	gbk
 UTF-8	utf
 macOS Big Sur	macos	3
 macOS Catalina	macos	2
 macOS	macos	1
-Google Analytics	ga
+MacBook Pro	mbp
+MacBook	macbook
+Apple	apple
+Apple ID	apple
 Mac	mac
+iOS	ios
+iMac	imac
+iPad	ipad
+iPhone	iphone
+iPod	ipod
+iTunes	itunes
 Linux	linux
+GitHub	github
+IPTV	iptv
+IPv4	ipv
+IPv6	ipv
+Mac App Store	mas
+OS X	osx
+Wi-Fi	wifi
+
+# 前后端术语
 CSS	css
 HTML	html
 Vue	vue
 React	react
-React Native	rn	2
-RN	rn	1
-iOS	ios
-iPad	ipad
-iPhone	iphone
-iTunes	itunes
+React Native	rn
 NPM	npm
 Yarn	yarn
 JavaScript	js
@@ -50,28 +65,22 @@ SQL	sql
 Objective-C	oc
 Ruby	ruby
 Rust	rust
-WeChat	wechat
 Swift	swift
-MacBook Pro	mbp
-MacBook	macbook
-Apple	apple
-Apple ID	apple
-U盘	upj
-GitHub	github
-iMac	imac
-iPad	ipad
-iPhone	iphone
-iPod	ipod
-IPTV	iptv
-IPv4	ipv
-IPv6	ipv
-Mac App Store	mas
-OS X	osx
+Google Analytics	ga
+VS Code	vsc
+WebStorm	ws
+
+# 网站
 Youku	youku
 YouTube	youtube
 iCloud	icloud
 Dropbox	dropbox
-Wi-Fi	wifi
+InfoQ	infoq
+
+# 其它
+U盘	up
 T恤	txu
 又双叒叕	yyy
 biangbiang面	bbm
+WeChat	wechat
+
