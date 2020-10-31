@@ -37,8 +37,13 @@ iOS	ios
 iPad	ipad
 iPhone	iphone
 iTunes	itunes
+NPM	npm
+Yarn	yarn
 JavaScript	js
 TypeScript	ts
+TensorFlow	tf	2
+TensorFlow.js	tf	1
+WebAssembly	wasm
 jQuery	jq
 MySQL	mysql
 SQL	sql
