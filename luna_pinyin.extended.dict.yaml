@@ -26,15 +26,12 @@ import_tables:
   - luna_pinyin.sgmain
   - luna_pinyin.sgplus
   - luna_pinyin.sgplus2
+  - luna_pinyin.sougou
   - luna_pinyin.chat
   - luna_pinyin.computer
   - luna_pinyin.place
-  - luna_pinyin.place2
   - luna_pinyin.shopping
   - luna_pinyin.net
   - luna_pinyin.website
   - luna_pinyin.poetry
-  - luna_pinyin.stars
-  - luna_pinyin.popular
-  - luna_pinyin.dictionary
 ...
