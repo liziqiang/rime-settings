@@ -26,13 +26,16 @@ UTF-8	utf
 macOS Big Sur	macos	3
 macOS Catalina	macos	2
 macOS	macos	1
+OS X	osx
 MacBook Pro	mbp
 MacBook	macbook
 Apple	apple
 Apple ID	apple
-Mac	mac
+Mac	mac	3
+iMac	mac	2
+Macintosh	mac	1
+Mac App Store	mas
 iOS	ios
-iMac	imac
 iPad	ipad
 iPhone	iphone
 iPod	ipod
@@ -42,8 +45,6 @@ GitHub	github
 IPTV	iptv
 IPv4	ipv
 IPv6	ipv
-Mac App Store	mas
-OS X	osx
 Wi-Fi	wifi
 
 # 前后端术语
@@ -76,6 +77,7 @@ YouTube	youtube
 iCloud	icloud
 Dropbox	dropbox
 InfoQ	infoq
+bilibili	bili
 
 # 其它
 U盘	up
