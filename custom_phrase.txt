@@ -14,6 +14,7 @@
 #
 # no comment
 
+Rime	rime
 # 符号
 ⌘	cmd
 ⌃	ctl
@@ -55,19 +56,17 @@ React	react
 React Native	rn
 NPM	npm
 Yarn	yarn
-JavaScript	js
-TypeScript	ts
+JavaScript	sc
+TypeScript	sc
 TensorFlow	tf	2
 TensorFlow.js	tf	1
 WebAssembly	wasm
-jQuery	jq
 MySQL	mysql
 SQL	sql
 Objective-C	oc
 Ruby	ruby
 Rust	rust
 Swift	swift
-Google Analytics	ga
 VS Code	vsc
 WebStorm	ws
 
