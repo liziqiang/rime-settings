@@ -77,6 +77,8 @@ iCloud	icloud
 Dropbox	dropbox
 InfoQ	infoq
 bilibili	bili
+百度	bd	2
+baidu.com	bd	1
 
 # 其它
 U盘	up
