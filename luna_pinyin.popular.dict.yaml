@@ -1,18 +1,10 @@
 # Rime dictionary
 # encoding: utf-8
-#
-# Sogou Pinyin Dict - 搜狗细胞词库
-#
-#   https://pinyin.sogou.com/dict/
-#
-# 包括:
-#
-# * 网络流行新词
-#
+# Source: https://pinyin.sogou.com/d/dict/download_cell.php?id=4&f=detail
 
 ---
 name: luna_pinyin.popular
-version: "1.0"
+version: "2020.11.16"
 sort: by_weight
 use_preset_vocabulary: false
 ...

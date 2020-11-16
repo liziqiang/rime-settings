@@ -1,10 +1,10 @@
 # Rime dictionary
 # encoding: utf-8
-# Source: https://pinyin.sogou.com/dict/detail/index/15209
+# Source: https://pinyin.sogou.com/d/dict/download_cell.php?id=15209&f=detail
 
 ---
 name: luna_pinyin.mingxing
-version: "2016.06.30"
+version: "2020.11.16"
 sort: by_weight
 use_preset_vocabulary: false
 ...
@@ -5989,4 +5989,3 @@ use_preset_vocabulary: false
 左小祖咒	zuo xiao zu zhou
 左岩	zuo yan
 佐野元春	zuo ye yuan chun
-	
