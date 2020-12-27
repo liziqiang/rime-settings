@@ -28,7 +28,7 @@ patch:
     #- charset_filter@gbk
     #- single_char_filter
   engine/processors:
-    # - ascii_composer
+    - ascii_composer
     - recognizer
     - key_binder
     - speller
@@ -42,6 +42,15 @@ patch:
   #   - abc_segmentor
   #   - punct_segmentor
   #   - fallback_segmentor
+  ascii_composer: # 设置caps、shift、control等键的作用
+    good_old_caps_lock: false # 若为true，caps只切换大小写
+    switch_key:
+      Shift_L: commit_code
+      Shift_R: noop
+      Control_L: noop
+      Control_R: noop
+      Caps_Lock: noop
+      Eisu_toggle: clear
   emoji_suggestion:
     opencc_config: emoji.json
     option_name: emoji_suggestion
