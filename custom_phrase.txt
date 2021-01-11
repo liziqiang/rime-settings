@@ -55,7 +55,6 @@ Vue	vue
 React	react
 React Native	rn
 NPM	npm
-Yarn	yarn
 JavaScript	sc
 TypeScript	sc
 TensorFlow	tf	2
