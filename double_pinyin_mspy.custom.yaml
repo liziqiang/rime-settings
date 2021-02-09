@@ -17,6 +17,8 @@ patch:
     - name: ascii_punct
       states: [ 。，, ．， ]
   engine/translators:
+    - lua_translator@date_translator
+    - lua_translator@week_translator
     - punct_translator
     - script_translator
     - table_translator@custom_phrase
@@ -26,7 +28,7 @@ patch:
     - simplifier
     - uniquifier
     #- charset_filter@gbk
-    #- single_char_filter
+    - single_char_filter
   engine/processors:
     - ascii_composer
     - recognizer
