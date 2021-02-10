@@ -3,7 +3,7 @@ patch:
   show_notifications_via_notification_center: true
 
   # 以下软件默认英文模式
-  # app_options:
+  app_options:
   #   com.apple.dt.Xcode:
   #     ascii_mode: true
   #   com.runningwithcrayons.Alfred:
