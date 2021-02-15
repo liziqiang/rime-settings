@@ -45,13 +45,13 @@ patch:
   #   - punct_segmentor
   #   - fallback_segmentor
   ascii_composer: # 设置caps、shift、control等键的作用
-    good_old_caps_lock: true # 若为true，caps只切换大小写
+    good_old_caps_lock: false # 若为true，caps只切换大小写
     switch_key:
       Shift_L: commit_code
       Shift_R: commit_text
       Control_L: noop
       Control_R: noop
-      Caps_Lock: commit_code
+      Caps_Lock: noop
       Eisu_toggle: clear
   emoji_suggestion:
     opencc_config: emoji.json
