@@ -57,6 +57,16 @@ patch:
     opencc_config: emoji.json
     option_name: emoji_suggestion
     # tips: all
+  switches/@next:
+    name: symbol_support
+    reset: 1
+    states: [ "无符", "符" ]
+  'engine/filters/@before 0':
+    simplifier@symbol_support
+  symbol_support:
+    opencc_config: symbol.json
+    option_name: symbol_support
+    # tips: all
   
   #載入朙月拼音擴充詞庫
   "translator/dictionary": luna_pinyin.extended
