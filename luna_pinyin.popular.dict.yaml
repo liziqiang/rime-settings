@@ -4,7 +4,7 @@
 
 ---
 name: luna_pinyin.popular
-version: "2021.03.06"
+version: "2021.03.07"
 sort: by_weight
 use_preset_vocabulary: false
 ...
@@ -1634,6 +1634,7 @@ use_preset_vocabulary: false
 比丘兽	bi qiu shou
 比去年高	bi qu nian gao
 比去年好	bi qu nian hao
+币权	bi quan
 毕冉	bi ran
 必然选择	bi ran xuan ze
 比萨卡	bi sa ka
@@ -12221,6 +12222,7 @@ use_preset_vocabulary: false
 纪晓波	ji xiao bo
 纪晓君	ji xiao jun
 绩效评价	ji xiao ping jia
+积小善为大善	ji xiao shan wei da shan
 机械电子	ji xie dian zi
 机械画皮	ji xie hua pi
 机械克苏恩	ji xie ke su en
@@ -12700,6 +12702,7 @@ use_preset_vocabulary: false
 健忘村	jian wang cun
 剑无尘	jian wu chen
 见习法医	jian xi fa yi
+鉴心	jian xin
 剑玄	jian xuan
 简雪	jian xue
 减压桶	jian ya tong
@@ -15725,6 +15728,7 @@ use_preset_vocabulary: false
 李富真	li fu zhen
 李干杰	li gan jie
 李杲	li gao
+骊歌行	li ge xing
 李歌洋	li ge yang
 礼冠	li guan
 离莞	li guan
@@ -16344,6 +16348,7 @@ use_preset_vocabulary: false
 料豆	liao dou
 廖朵朵	liao duo duo
 撩发	liao fa
+燎干	liao gan
 燎疳	liao gan
 蓼皋镇	liao gao zhen
 廖国勋	liao guo xun
@@ -20315,6 +20320,7 @@ use_preset_vocabulary: false
 庞贝末日	pang bei mo ri
 磅礴伟力	pang bo wei li
 胖不拉几	pang bu la ji
+滂臭	pang chou
 胖达龙	pang da long
 胖达荣荣	pang da rong rong
 胖大仙	pang da xian
@@ -20698,6 +20704,7 @@ use_preset_vocabulary: false
 破立	po li
 破立丹	po li dan
 泼硫酸	po liu suan
+破轮	po lun
 魄罗王	po luo wang
 破魔刀	po mo dao
 颇妞	po niu
@@ -21615,6 +21622,7 @@ use_preset_vocabulary: false
 请扣一	qing kou yi
 清莱联	qing lai lian
 请老	qing lao
+轻雷	qing lei
 清理后台	qing li hou tai
 清理门户	qing li men hu
 清理内存	qing li nei cun
@@ -23207,6 +23215,7 @@ use_preset_vocabulary: false
 善盾	shan dun
 闪盾	shan dun
 山坟	shan fen
+陕工	shan gong
 山谷地图	shan gu di tu
 山谷热	shan gu re
 闪光杯	shan guang bei
@@ -27992,6 +28001,7 @@ use_preset_vocabulary: false
 唯有自渡	wei you zi du
 唯余失望	wei yu shi wang
 魏雨欣	wei yu xin
+微雨众卉新	wei yu zhong hui xin
 微云台	wei yun tai
 为崽挨打	wei zai ai da
 围在一起	wei zai yi qi
@@ -33297,6 +33307,7 @@ use_preset_vocabulary: false
 依兰爱情	yi lan ai qing
 宜兰园	yi lan yuan
 忆兰州	yi lan zhou
+一雷惊蛰始	yi lei jing zhe shi
 伊蕾娜	yi lei na
 一类疫苗	yi lei yi miao
 依里	yi li
@@ -36793,6 +36804,7 @@ use_preset_vocabulary: false
 钟睒睒	zhong shan shan
 中设股份	zhong she gu fen
 终身监禁	zhong shen jian jin
+终身禁驾	zhong shen jin jia
 终身为父	zhong shen wei fu
 终身学习	zhong shen xue xi
 众神之王	zhong shen zhi wang
