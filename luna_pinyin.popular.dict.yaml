@@ -4,7 +4,7 @@
 
 ---
 name: luna_pinyin.popular
-version: "2021.03.10"
+version: "2021.03.11"
 sort: by_weight
 use_preset_vocabulary: false
 ...
@@ -2897,6 +2897,7 @@ use_preset_vocabulary: false
 岑缨	cen ying
 蹭别人	ceng bie ren
 曾春蕾	ceng chun lei
+曾涵江	ceng han jiang
 蹭空调	ceng kong tiao
 曾梦雪	ceng meng xue
 曾玉明	ceng yu ming
@@ -4395,6 +4396,7 @@ use_preset_vocabulary: false
 答辩记录	da bian ji lu
 打标枪	da biao qiang
 大冰小将	da bing xiao jiang
+达泊西汀	da bo xi ting
 打不败	da bu bai
 大步奔小康	da bu ben xiao kang
 打不打麻将	da bu da ma jiang
@@ -5737,6 +5739,7 @@ use_preset_vocabulary: false
 丁筱	ding xiao
 丁小芹	ding xiao qin
 丁小伟	ding xiao wei
+丁蟹	ding xie
 丁修	ding xiu
 丁学东	ding xue dong
 丁仪	ding yi
@@ -6471,6 +6474,7 @@ use_preset_vocabulary: false
 二号走	er hao zou
 二胡卵子	er hu luan zi
 而患不均	er huan bu jun
+二级背背	er ji bei bei
 二级斗	er ji dou
 二级斗篷	er ji dou peng
 二级结论	er ji jie lun
@@ -7592,6 +7596,7 @@ use_preset_vocabulary: false
 傅容	fu rong
 芙蓉池	fu rong chi
 芙蓉湖	fu rong hu
+福三炮	fu san pao
 扶桑有狐	fu sang you hu
 伏山镇	fu shan zhen
 复商	fu shang
@@ -11770,6 +11775,7 @@ use_preset_vocabulary: false
 浑身发冷	hun shen fa leng
 浑身汗	hun shen han
 魂十二	hun shi er
+魂收	hun shou
 魂四	hun si
 魂天帝	hun tian di
 混天魔	hun tian mo
@@ -13544,6 +13550,7 @@ use_preset_vocabulary: false
 今晚零点	jin wan ling dian
 今晚上新	jin wan shang xin
 今晚十二点	jin wan shi er dian
+进王	jin wang
 锦卫门	jin wei men
 金玟庭	jin wen ting
 金雯昕	jin wen xin
@@ -13861,6 +13868,7 @@ use_preset_vocabulary: false
 九连败	jiu lian bai
 酒量不好	jiu liang bu hao
 旧林	jiu lin
+韭零后	jiu ling hou
 九流霸主	jiu liu ba zhu
 九龙沟	jiu long gou
 九龙门	jiu long men
@@ -15755,6 +15763,7 @@ use_preset_vocabulary: false
 李达渊	li da yuan
 李岱昆	li dai kun
 立蛋	li dan
+丽党	li dang
 立党	li dang
 丽岛新材	li dao xin cai
 离岛之歌	li dao zhi ge
@@ -17981,6 +17990,7 @@ use_preset_vocabulary: false
 曼醉	man zui
 盲爱	mang ai
 莽草	mang cao
+芒城	mang cheng
 芒顿小镇	mang dun xiao zhen
 芒果布丁	mang guo bu ding
 芒果夜	mang guo ye
@@ -21517,6 +21527,7 @@ use_preset_vocabulary: false
 亲爱的自己	qin ai de zi ji
 秦驰	qin chi
 秦凡淇	qin fan qi
+秦放	qin fang
 勤奋工作	qin fen gong zuo
 勤奋学习	qin fen xue xi
 秦港股份	qin gang gu fen
@@ -24814,6 +24825,7 @@ use_preset_vocabulary: false
 熟女强人	shu nv qiang ren
 书契	shu qi
 蜀七	shu qi
+暑期见	shu qi jian
 数千次	shu qian ci
 舒庆	shu qing
 鼠去牛来	shu qu niu lai
@@ -25418,6 +25430,7 @@ use_preset_vocabulary: false
 送贺卡	song he ka
 淞沪战役	song hu zhan yi
 宋怀恩	song huai en
+送魂芯	song hun xin
 送火神	song huo shen
 送几张	song ji zhang
 宋佳昌	song jia chang
@@ -27425,6 +27438,7 @@ use_preset_vocabulary: false
 万人天台	wan ren tian tai
 万人天台局	wan ren tian tai ju
 万赛文	wan sai wen
+丸善	wan shan
 完善覆盖	wan shan fu gai
 完善体系	wan shan ti xi
 完善制度	wan shan zhi du
@@ -29099,6 +29113,7 @@ use_preset_vocabulary: false
 我一路上	wo yi lu shang
 我一票	wo yi piao
 我已申请	wo yi shen qing
+我亦是行人	wo yi shi xing ren
 我以为是我	wo yi wei shi wo
 我已下单	wo yi xia dan
 我一夜没睡	wo yi ye mei shui
@@ -29425,6 +29440,7 @@ use_preset_vocabulary: false
 伍隍	wu huang
 吾皇万睡	wu huang wan shui
 无悔这一生	wu hui zhe yi sheng
+五魂	wu hun
 无婚姻	wu hun yin
 武魂真身	wu hun zhen shen
 吴极	wu ji
@@ -29647,6 +29663,7 @@ use_preset_vocabulary: false
 五万八	wu wan ba
 五万本	wu wan ben
 乌丸莲耶	wu wan lian ye
+五王	wu wang
 无妄海	wu wang hai
 勿忘历史	wu wang li shi
 无妄坡	wu wang po
@@ -30146,6 +30163,7 @@ use_preset_vocabulary: false
 匣里灭辰	xia li mie chen
 夏林果	xia lin guo
 霞流镇	xia liu zhen
+霞龙	xia long
 下路推	xia lu tui
 虾漫	xia man
 下冒烟	xia mao yan
@@ -34997,6 +35015,7 @@ use_preset_vocabulary: false
 袁桂花	yuan gui hua
 元灏	yuan hao
 元虎	yuan hu
+怨虎龙	yuan hu long
 怨火	yuan huo
 元济	yuan ji
 原价多少	yuan jia duo shao
@@ -35265,6 +35284,7 @@ use_preset_vocabulary: false
 云黛	yun dai
 恽代英	yun dai ying
 陨丹	yun dan
+云顶浮石	yun ding fu shi
 云顶滑雪场	yun ding hua xue chang
 云顶天宫	yun ding tian gong
 云顶之奕	yun ding zhi yi
@@ -35453,6 +35473,7 @@ use_preset_vocabulary: false
 咱妈家	zan ma jia
 赞美老师	zan mei lao shi
 攒牛气	zan niu qi
+赞丸	zan wan
 暂无数据	zan wu shu ju
 咱爷俩	zan ye lia
 赞赞新时代	zan zan xin shi dai
@@ -36963,6 +36984,7 @@ use_preset_vocabulary: false
 种小麦	zhong xiao mai
 钟晓芹	zhong xiao qin
 钟晓阳	zhong xiao yang
+众鑫大厦	zhong xin da sha
 重信守诺	zhong xin shou nuo
 忠行	zhong xing
 重型武器	zhong xing wu qi
@@ -37591,6 +37613,7 @@ use_preset_vocabulary: false
 自夸小队	zi kua xiao dui
 自来桥	zi lai qiao
 紫琅湖	zi lang hu
+紫流金	zi liu jin
 紫龙虾	zi long xia
 自律的人	zi lv de ren
 紫码	zi ma
